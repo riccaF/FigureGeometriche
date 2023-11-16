@@ -1,3 +1,3 @@
 # FigureGeometriche
 File readme di esempio
-**** copia in locale
+**** copia su GitHub
